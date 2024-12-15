@@ -1,0 +1,46 @@
+{
+    "Projects": [
+      {
+        "id": 1,
+        "title": "AI Image Generator",
+        "description": "A deep learning-powered platform that generates unique artworks from text descriptions.",
+        "color": "#FF6B6B",
+        "gradient": "from-red-500 to-pink-500",
+        "category": "AI",
+        "technologies": ["Python", "TensorFlow", "React", "AWS"],
+        "image": "/api/placeholder/600/400",
+        "githubLink": "https://github.com/yourusername/project",
+        "liveLink": "https://project-demo.com",
+        "features": [
+          "Natural language processing",
+          "Real-time image generation",
+          "Style transfer capabilities",
+          "User galleries"
+        ],
+        "stats": {
+          "users": "10K+",
+          "images": "1M+",
+          "rating": 4.8
+        }
+      },
+      {
+        "id": 2,
+        "title": "Social Media Dashboard",
+        "description": "An all-in-one analytics dashboard for managing multiple social media accounts.",
+        "color": "#4ECDC4",
+        "gradient": "from-teal-500 to-cyan-500",
+        "category": "Web",
+        "technologies": ["React", "Node.js", "GraphQL", "Firebase"],
+        "image": "https://www.liquidplanner.com/wp-content/uploads/2019/04/HiRes-17.jpg",
+        "githubLink": "https://github.com/yourusername/project",
+        "liveLink": "https://project-demo.com",
+        "features": [
+          "Real-time analytics",
+          "Automated reporting",
+          "Content scheduling",
+          "Engagement tracking"
+        ]
+      }
+    ]
+  }
+  
